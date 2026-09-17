@@ -1,17 +1,13 @@
-# Computer Graphics - OpenGL
+Computer Graphics - OpenGL
 
 Projetos de Computação Gráfica desenvolvidos em OpenGL/GLUT (C).
 
-## Como correr
-- Abrir o ficheiro `.sln` no **Visual Studio**
-- Carregar em **F5** ou no botão ▶
+Requisitos
+Visual Studio 2022 (Community, Professional ou Enterprise) — versão recomendada, gratuita para estudantes: https://visualstudio.microsoft.com/
+Ao instalar, selecionar o workload "Desenvolvimento para desktop com C++" (Desktop development with C++), que inclui o compilador MSVC necessário.
 
-## Edição de código
-- Editar com **VS Code**
-- Para enviar alterações:
-  git add .
-  git commit -m "descrição"
-  git push
+Estes projetos usam ficheiros .sln/.vcxproj (formato nativo do Visual Studio) e não foram configurados para correr no VS Code. Abrir apenas com o VS Code não é suficiente — é necessário o Visual Studio instalado.
 
-## Conteúdo
-- **teste 1/** - Quadrados em OpenGL com GL_LINE_STRIP e GL_LINES
+Como correr
+Abrir o ficheiro .sln no Visual Studio
+Carregar em F5 ou no botão Run
