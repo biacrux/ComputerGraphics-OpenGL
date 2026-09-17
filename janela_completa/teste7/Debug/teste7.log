@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste7\teste7\FileName.c(125,18): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste7\teste7\FileName.c(128,15): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  teste7.vcxproj -> C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste7\Debug\teste7.exe

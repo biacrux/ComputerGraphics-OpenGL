@@ -1,0 +1,26 @@
+﻿  FileName.c
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\teste8\FileName.c(267,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\teste8\FileName.c(269,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutFullScreen referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function keyboard
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function display
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutAddMenuEntry referenced in function createContextMenu
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutAttachMenu referenced in function createContextMenu
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardUpFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutSpecialUpFunc referenced in function main
+FileName.obj : error LNK2019: unresolved external symbol __imp_glutBitmapCharacter referenced in function drawText
+FileName.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+FileName.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+FileName.obj : error LNK2019: unresolved external symbol __imp___glutCreateMenuWithExit referenced in function glutCreateMenu_ATEXIT_HACK
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\OpenGL2022\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\OpenGL2022\glew-2.3.1\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\x64\Debug\teste8.exe : fatal error LNK1120: 20 unresolved externals

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobraa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B705415B-34A5-465F-AB2B-C7B4A3A745FF}|jogo_cobraa\\jogo_cobraa.vcxproj|C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobraa\\jogo_cobraa\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B705415B-34A5-465F-AB2B-C7B4A3A745FF}|jogo_cobraa\\jogo_cobraa.vcxproj|solutionrelative:jogo_cobraa\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobraa\\jogo_cobraa\\FileName.c",
+              "RelativeDocumentMoniker": "jogo_cobraa\\FileName.c",
+              "ToolTip": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobraa\\jogo_cobraa\\FileName.c*",
+              "RelativeToolTip": "jogo_cobraa\\FileName.c*",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAuwDUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-22T08:38:05.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

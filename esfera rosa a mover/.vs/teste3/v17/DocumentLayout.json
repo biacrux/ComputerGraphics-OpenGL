@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D441397-B5B9-471D-ADF4-20AF531BA609}|teste3\\teste3.vcxproj|C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste3\\teste3\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D441397-B5B9-471D-ADF4-20AF531BA609}|teste3\\teste3.vcxproj|solutionrelative:teste3\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste3\\teste3\\FileName.c",
+              "RelativeDocumentMoniker": "teste3\\FileName.c",
+              "ToolTip": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste3\\teste3\\FileName.c",
+              "RelativeToolTip": "teste3\\FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-25T11:32:50.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

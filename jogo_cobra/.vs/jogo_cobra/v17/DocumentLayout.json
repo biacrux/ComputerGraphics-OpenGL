@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C7E12E-EFD8-47E8-8F56-86C8284BC880}|jogo_cobra\\jogo_cobra.vcxproj|C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobra\\jogo_cobra\\cobra_jogo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C7E12E-EFD8-47E8-8F56-86C8284BC880}|jogo_cobra\\jogo_cobra.vcxproj|solutionrelative:jogo_cobra\\cobra_jogo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cobra_jogo.c",
+              "DocumentMoniker": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobra\\jogo_cobra\\cobra_jogo.c",
+              "RelativeDocumentMoniker": "jogo_cobra\\cobra_jogo.c",
+              "ToolTip": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\jogo_cobra\\jogo_cobra\\cobra_jogo.c",
+              "RelativeToolTip": "jogo_cobra\\cobra_jogo.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-25T22:25:42.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

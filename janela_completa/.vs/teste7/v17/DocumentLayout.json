@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16CD1D71-969C-403A-A7EA-CB02DFF5CF0A}|teste7\\teste7.vcxproj|C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste7\\teste7\\janels_completa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16CD1D71-969C-403A-A7EA-CB02DFF5CF0A}|teste7\\teste7.vcxproj|solutionrelative:teste7\\janels_completa.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\OpenGL_Game_3\\OpenGL_Game_3\\Game_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game_3.cpp",
+              "DocumentMoniker": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\OpenGL_Game_3\\OpenGL_Game_3\\Game_3.cpp",
+              "RelativeDocumentMoniker": "..\\OpenGL_Game_3\\OpenGL_Game_3\\Game_3.cpp",
+              "ToolTip": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\OpenGL_Game_3\\OpenGL_Game_3\\Game_3.cpp",
+              "RelativeToolTip": "..\\OpenGL_Game_3\\OpenGL_Game_3\\Game_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T09:43:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "janels_completa.c",
+              "DocumentMoniker": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste7\\teste7\\janels_completa.c",
+              "RelativeDocumentMoniker": "teste7\\janels_completa.c",
+              "ToolTip": "C:\\Users\\cruzb\\Desktop\\IPB_3\\3ANO\\2semestre\\CG\\teste7\\teste7\\janels_completa.c",
+              "RelativeToolTip": "teste7\\janels_completa.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-26T09:43:10.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

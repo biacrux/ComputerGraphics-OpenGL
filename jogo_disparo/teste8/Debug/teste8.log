@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\teste8\FileName.c(270,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\teste8\FileName.c(272,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  teste8.vcxproj -> C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\teste8\Debug\teste8.exe
