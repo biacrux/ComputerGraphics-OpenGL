@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\2bolas_andar\2bolas_andar\FileName.c(144,21): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  2bolas_andar.vcxproj -> C:\Users\cruzb\Desktop\IPB_3\3ANO\2semestre\CG\2bolas_andar\Debug\2bolas_andar.exe
